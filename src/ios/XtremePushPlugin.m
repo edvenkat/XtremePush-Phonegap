@@ -87,7 +87,7 @@
     } else {
         types = UIRemoteNotificationTypeAlert | UIRemoteNotificationTypeSound | UIRemoteNotificationTypeBadge;
     }
-     [XPush setSandboxModeEnabled:YES];
+    // [XPush setSandboxModeEnabled:YES];
     [XPush registerForRemoteNotificationTypes:types];
 }
 
