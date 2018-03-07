@@ -145,7 +145,7 @@
 		<!-- EDIT: Required for Attributions and Ad ID collection -->
 		<!-- <framework src="com.google.android.gms:play-services-ads:+" /> -->
 		<!-- EDIT END -->
-
+		<resource-file src="www/icon-72.png" target="res/drawable/icon-72.png" />
 	</platform>
 
 	<platform name="ios">
